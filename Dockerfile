@@ -1,4 +1,4 @@
-FROM python:3.7-alphine
+FROM python:3.7-alpine3.11
 LABEL key="Akshay kumar Arasavalli"
 
 ENV PYTHONUNBUFFERED 1
